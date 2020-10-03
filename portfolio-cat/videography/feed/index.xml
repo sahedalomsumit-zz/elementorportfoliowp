@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Videography &#8211; Asli Sumit</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Make your best wordpress website with me!</description>
+	<lastBuildDate>Sat, 23 May 2020 16:04:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2020/05/screenshot-secure.logomaker.com-2020.05.19-19_20_23-150x150.png</url>
+	<title>Videography &#8211; Asli Sumit</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dhaka Timelapse</title>
+		<link>./../../../portfolio/dhaka-timelapse/index.html</link>
+		
+		<dc:creator><![CDATA[Sumit5683]]></dc:creator>
+		<pubDate>Sat, 23 May 2020 16:01:16 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=portfolio&#038;p=436</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div id="pl-gb436-5f78b9fc812c1"  class="panel-layout" ><div id="pg-gb436-5f78b9fc812c1-0"  class="panel-grid panel-no-style" ><div id="pgc-gb436-5f78b9fc812c1-0-0"  class="panel-grid-cell" ><div id="panel-gb436-5f78b9fc812c1-0-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="0" ><div class="textwidget custom-html-widget"></div></div></div><div id="pgc-gb436-5f78b9fc812c1-0-1"  class="panel-grid-cell panel-grid-cell-empty panel-grid-cell-mobile-last" ></div><div id="pgc-gb436-5f78b9fc812c1-0-2"  class="panel-grid-cell panel-grid-cell-empty" ></div></div></div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

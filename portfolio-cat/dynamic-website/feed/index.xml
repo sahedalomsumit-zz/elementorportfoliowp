@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dynamic Website &#8211; Asli Sumit</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Make your best wordpress website with me!</description>
+	<lastBuildDate>Sat, 23 May 2020 15:52:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2020/05/screenshot-secure.logomaker.com-2020.05.19-19_20_23-150x150.png</url>
+	<title>Dynamic Website &#8211; Asli Sumit</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Phlox</title>
+		<link>./../../../portfolio/phlox/index.html</link>
+		
+		<dc:creator><![CDATA[Sumit5683]]></dc:creator>
+		<pubDate>Sat, 23 May 2020 15:43:56 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=portfolio&#038;p=432</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="./../../../wp-content/uploads/2020/05/person-using-macbook-3584994-1024x1024.jpg" alt="" data-id="164" data-full-url="./../../../wp-content/uploads/2020/05/person-using-macbook-3584994.jpg" data-link="./../../../home-2/person-using-macbook-3584994/index.html" class="wp-image-164" srcset="./../../../wp-content/uploads/2020/05/person-using-macbook-3584994-1024x1024.jpg 1024w, ./../../../wp-content/uploads/2020/05/person-using-macbook-3584994-300x300.jpg 300w, ./../../../wp-content/uploads/2020/05/person-using-macbook-3584994-150x150.jpg 150w, ./../../../wp-content/uploads/2020/05/person-using-macbook-3584994-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="./../../../wp-content/uploads/2020/05/high-angle-photo-of-person-holding-film-strip-in-front-of-a-3585011-1024x1024.jpg" alt="" data-id="165" data-full-url="./../../../wp-content/uploads/2020/05/high-angle-photo-of-person-holding-film-strip-in-front-of-a-3585011-scaled.jpg" data-link="./../../../home-2/high-angle-photo-of-person-holding-film-strip-in-front-of-a-3585011/index.html" class="wp-image-165" srcset="./../../../wp-content/uploads/2020/05/high-angle-photo-of-person-holding-film-strip-in-front-of-a-3585011-1024x1024.jpg 1024w, ./../../../wp-content/uploads/2020/05/high-angle-photo-of-person-holding-film-strip-in-front-of-a-3585011-300x300.jpg 300w, ./../../../wp-content/uploads/2020/05/high-angle-photo-of-person-holding-film-strip-in-front-of-a-3585011-150x150.jpg 150w, ./../../../wp-content/uploads/2020/05/high-angle-photo-of-person-holding-film-strip-in-front-of-a-3585011-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="./../../../wp-content/uploads/2020/05/photo-of-imac-near-macbook-1029757-1024x1024.jpg" alt="" data-id="166" data-full-url="./../../../wp-content/uploads/2020/05/photo-of-imac-near-macbook-1029757.jpg" data-link="./../../../home-2/photo-of-imac-near-macbook-1029757/index.html" class="wp-image-166" srcset="./../../../wp-content/uploads/2020/05/photo-of-imac-near-macbook-1029757-1024x1024.jpg 1024w, ./../../../wp-content/uploads/2020/05/photo-of-imac-near-macbook-1029757-300x300.jpg 300w, ./../../../wp-content/uploads/2020/05/photo-of-imac-near-macbook-1029757-150x150.jpg 150w, ./../../../wp-content/uploads/2020/05/photo-of-imac-near-macbook-1029757-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="1024" src="./../../../wp-content/uploads/2020/05/apple-laptop-notebook-office-39284-1-1024x1024.jpg" alt="" data-id="167" data-full-url="./../../../wp-content/uploads/2020/05/apple-laptop-notebook-office-39284-1.jpg" data-link="./../../../home-2/apple-laptop-notebook-office-39284-1/index.html" class="wp-image-167" srcset="./../../../wp-content/uploads/2020/05/apple-laptop-notebook-office-39284-1-1024x1024.jpg 1024w, ./../../../wp-content/uploads/2020/05/apple-laptop-notebook-office-39284-1-300x300.jpg 300w, ./../../../wp-content/uploads/2020/05/apple-laptop-notebook-office-39284-1-150x150.jpg 150w, ./../../../wp-content/uploads/2020/05/apple-laptop-notebook-office-39284-1-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
